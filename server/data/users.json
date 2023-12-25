@@ -1,0 +1,18 @@
+[
+  {
+    "username": "dunthank0",
+    "email": "lbruni0@edublogs.org",
+    "password": "admin",
+    "role": "admin",
+    "phoneNumber": "0812629231",
+    "address": "PO Box 43794"
+  },
+  {
+    "username": "cbrunel1",
+    "email": "dbabb1@globo.com",
+    "password": "user",
+    "role": "staff",
+    "phoneNumber": "08214324312",
+    "address": "Apt 1747"
+  }
+]
